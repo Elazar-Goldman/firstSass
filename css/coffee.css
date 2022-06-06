@@ -1,5 +1,5 @@
 h1 {
-  background-color: aquamarine;
+  background-color: red;
   position: relative;
   -webkit-animation: h1-move 2s linear;
           animation: h1-move 2s linear;
